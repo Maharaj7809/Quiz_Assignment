@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Deployment 
+
+ Link : https://quiz-assignment-ghuu-nkt3f1xrg-maharaj7809.vercel.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -59,7 +64,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+
+
+
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
