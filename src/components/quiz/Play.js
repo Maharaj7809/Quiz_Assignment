@@ -126,7 +126,7 @@ class Play extends Component {
 
             this.props.history.push('/');
             // navigate('/');
-            // window.location.href = '/';
+            window.location.href = '/';
         }
     };
 
