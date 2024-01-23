@@ -124,7 +124,7 @@ class Play extends Component {
         this.playButtonSound();
         if (window.confirm('Are you sure you want to quit?')) {
 
-            this.props.history.push('/');
+            // this.props.history.push('/');
             // navigate('/');
             window.location.href = '/';
         }
